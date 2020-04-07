@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	outline: none;
+}
+div{
+	width: 300px;
+	max-width: 500px;
+	height: 200px;
+	max-height: 500px;
+	background:black;
+	color: white;
+	position: relative;
+	margin: 0px auto;
+}
+#mm{
+	text-decoration: none;
+    display: inline-block;
+    width: 169px;
+    height: 33px;
+    background: blue;
+    position: absolute;
+    left: 50%;
+    margin-left: -84.5px;
+    top: 182px;
+    color: white;
+    background-image: linear-gradient(to right, pink, orange);
+    padding: 6px;
+    text-align: center;
+    text-transform: uppercase;
+}
